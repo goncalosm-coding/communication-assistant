@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.env
+app/memory/chroma_store/
+*.pyc
+*.pyo
+.git/
+*.dbcredentials.json
+token.json
